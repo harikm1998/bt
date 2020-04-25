@@ -106,7 +106,6 @@ video {
     -webkit-animation-direction: alternate;
     -moz-text-transform: blink;
 }
-
 @-webkit-keyframes blinker {
     from {
         opacity: 1.0;
@@ -115,7 +114,6 @@ video {
         opacity: 0.0;
     }
 }
-
 .blink1 {
     text-decoration: blink;
     -webkit-animation-name: blinker;
@@ -125,8 +123,6 @@ video {
     -webkit-animation-direction: alternate;
     -moz-text-transform: blink;
 }
-
-
 article,
 aside,
 details,
